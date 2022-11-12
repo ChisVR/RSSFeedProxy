@@ -9,7 +9,9 @@ A simple tool for creating Atom/RSS feeds from Hive accounts and categories.
 Go to (almost) any Hive/Blurt/Steem page with a content stream, and replace 'hive.blog' with 'rss.chisdealhd.co.uk/hive/' or 'blurt.blog' with 'rss.chisdealhd.co.uk/blurt/' or 'steemit.com' with 'rss.chisdealhd.co.uk/steem/' in the URL. 
 
 https://hive.blog/trending/hive -> https://rss.chisdealhd.co.uk/hive/trending/hive
+
 https://blurt.blog/trending/blurt -> https://rss.chisdealhd.co.uk/blurt/trending/blurt
+
 https://steemit.com/trending/steem -> https://rss.chisdealhd.co.uk/steem/trending/steem
 
 
