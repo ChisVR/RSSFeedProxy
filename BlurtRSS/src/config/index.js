@@ -1,0 +1,1 @@
+exports.FEED_URL = 'https://hiverss.com';
