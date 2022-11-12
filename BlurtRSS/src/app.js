@@ -6,7 +6,7 @@ import path from 'path'
 import router from './routes'
 
 const app = new Koa()
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 4000
 const dist = path.join(__dirname, '..', 'dist')
 const errorHandler = async (ctx, next) => {
   try {
