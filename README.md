@@ -15,7 +15,7 @@ https://steemit.com/trending/steem -> https://rss.chisdealhd.co.uk/steem/trendin
 
 `<PLATFORM> = Selected Platforms` - Only supported Blurt, Hive, Steem at this time
 
-## Usage Examples
+## Usage Examples Hive/Steem/Blurt
 
 ### User Feed
 
