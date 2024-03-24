@@ -30,13 +30,16 @@
     "npm-watch": "^0.7.0"
   },
   "dependencies": {
+    "@blurtfoundation/blurtjs": "^1.0.0",
     "@ecency/render-helper": "2.1.2",
+    "@hiveio/hive-js": "^2.0.1",
     "babel-polyfill": "^6.26.0",
     "koa": "^2.7.0",
     "koa-compose": "^4.1.0",
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa-static": "^3.0.0",
+    "mysql2": "^3.9.2",
     "path": "^0.12.7",
     "rss": "^1.2.2",
     "showdown": "^1.9.1",
